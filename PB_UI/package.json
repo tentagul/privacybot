@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "aos": "^3.0.0-beta.6",
     "autoprefixer": "^9.8.5",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "cruip-js-toolkit": "^1.0.2",
     "node-sass": "^4.14.1",
     "postcss-cli": "^7.1.1",
